@@ -1,4 +1,4 @@
-// components/ChatBot.jsx
+// ChatBot.jsx - Basic rule-based chatbot (no backend)
 import { useState } from 'react';
 
 export default function ChatBot() {
